@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "testFeatureManagement": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:21193",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
